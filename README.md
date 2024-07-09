@@ -19,7 +19,7 @@ This project simulates the behavior of an infinitesimal dipole antenna. It provi
 
 1. Clone the repository:
     ```sh
-     git clone https://github.com/17himanshu/Antenna-Project.git
+    git clone https://github.com/17himanshu/Antenna-Project.git
     cd Antenna-Project
     ```
 
